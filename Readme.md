@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [MainPage.xaml](./CS/CustomSeriesPointTooltip/MainPage.xaml) (VB: [MainPage.xaml](./VB/CustomSeriesPointTooltip/MainPage.xaml))
-* [MainPage.xaml.cs](./CS/CustomSeriesPointTooltip/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/CustomSeriesPointTooltip/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/CustomSeriesPointTooltip/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/CustomSeriesPointTooltip/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to provide a custom tooltip for a series point
 
