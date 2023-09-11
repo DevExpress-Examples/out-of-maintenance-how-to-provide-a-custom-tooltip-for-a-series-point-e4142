@@ -1,7 +1,0 @@
-﻿<Application xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
-             x:Class="CustomSeriesPointTooltip.App" xmlns:my="clr-namespace:System;assembly=mscorlib">
-    <Application.Resources>
-    <my:String x:Key="DevExpress.Xpf.License">0B-91-D8-AA-1F-07-02-8A-38-D2-14-5F-71-72-DE-24-08-19-D3-9C</my:String>
-  </Application.Resources>
-</Application>
